@@ -4,8 +4,7 @@ using namespace std;
 int main() {
    int n;
     int a=0, b=1, c;
-
-    cout << "Quanti numeri della serie vuoi stampare? : ";
+   
     cin >> n;
 
     if (n>=2){
